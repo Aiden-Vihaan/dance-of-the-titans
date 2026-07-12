@@ -1,1 +1,25 @@
+name: Repository Checks
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Verify Python Version
+        run: python --version
+
+      - name: Repository Ready
+        run: echo "Dance of the Titans repository verified successfully."
