@@ -1,1 +1,16 @@
+# Dance of the Titans
+# --------------------
+# This project is primarily a browser-based JavaScript/WebGL application.
+#
+# No external Python packages are required.
+#
+# To serve the project locally:
+#
+#   python3 -m http.server 8080
+#
+# Then open:
+# http://localhost:8080
 
+numpy>=2.0.0
+matplotlib>=3.9.0
+scipy>=1.14.0
