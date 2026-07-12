@@ -1,1 +1,52 @@
+---
+name: Bug Report
+about: Report a bug in Dance of the Titans
+title: "[Bug]"
+labels: bug
+assignees: ""
+---
 
+## Description
+
+Describe the issue.
+
+---
+
+## Steps to Reproduce
+
+1.
+2.
+3.
+
+---
+
+## Expected Behaviour
+
+Describe what should happen.
+
+---
+
+## Actual Behaviour
+
+Describe what happened instead.
+
+---
+
+## Browser
+
+- Chrome
+- Firefox
+- Safari
+- Edge
+
+---
+
+## Screenshots
+
+Attach screenshots if available.
+
+---
+
+## Additional Information
+
+Any extra details.
