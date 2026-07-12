@@ -1,14 +1,38 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: "Dance of the Titans: Real-Time Binary Black Hole Merger Simulation"
+message: "If you use this project for research, teaching, or inspiration, please cite it using the metadata below."
+type: software
+
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "dance-of-the-titans"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-07-08
+  - family-names: Vihaan
+    given-names: Aiden
+    github-username: Aiden-Vihaan
+
+repository-code: "https://github.com/Aiden-Vihaan/dance-of-the-titans"
+
 url: "https://github.com/Aiden-Vihaan/dance-of-the-titans"
+
+abstract: >
+  Dance of the Titans is a real-time interactive visualization of a binary
+  black hole merger built with Three.js and WebGL. The project combines
+  physically inspired orbital dynamics, gravitational lensing, particle
+  systems, cinematic rendering, and educational telemetry to demonstrate
+  one of the universe's most energetic astrophysical events.
+
+keywords:
+  - black holes
+  - binary black hole
+  - gravitational waves
+  - astrophysics
+  - three.js
+  - webgl
+  - visualization
+  - simulation
+  - computer graphics
+  - javascript
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-07-12
