@@ -102,18 +102,6 @@ uv run --python 3.12 --with taichi sim.py
 
 ---
 
-## Screenshots
-
-*Screenshots will be added after development.*
-
----
-
-## Demo Video
-
-*A demonstration video will be added before the final submission.*
-
----
-
 ## Future Improvements
 
 - Advanced gravitational lensing
